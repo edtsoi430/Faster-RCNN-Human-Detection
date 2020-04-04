@@ -1,9 +1,8 @@
 
-# Code adapted from Tensorflow Object Detection Framework
+# Code adapted from Tensorflow.
 # https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
-# Tensorflow Object Detection Detector
 
-# Edmond Tsoi for EECS 442 Final Project, Winter 2020
+# Edmond Tsoi
 # Faster RCNN
 
 # Dependencies: TensorFlow v1.15.0, Python3.7, OpenCV 3.4
