@@ -3,7 +3,7 @@
 # https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
 # Edmond Tsoi
-# Faster RCNN
+# Faster RCNNhttps://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
 # Dependencies: TensorFlow v1.15.0, Python3.7, OpenCV 3.4
 
