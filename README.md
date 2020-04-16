@@ -1,8 +1,8 @@
 # Description:
 This repo contains an example of using faster RCNN to detect moving human and vehicles in videos. The initial threshold is set to 0.7.
 
-# Snapshot
-
+# Snapshot:
+![alt text](https://github.com/edtsoi430/Faster-RCNN-Human-Detection/blob/master/img/human-obj-detection.gif)
 
 # Dependencies:
 - Python 3.7
